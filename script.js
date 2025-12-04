@@ -20,7 +20,12 @@ saveBtn.onclick = function () {
   var gender = genderSelect.value;
 
   if (!name || !age || !className || !regNo || !gender) {
-    alert('Please fill all fields!');
+    window.alert('Please fill all fields!');
+    return;
+  }
+
+  if (age<=0){
+    window.alert('Enter a valid age!');
     return;
   }
 
@@ -36,6 +41,8 @@ saveBtn.onclick = function () {
         students[i].gender = gender;
         break;
       }
+           if (age<=0)
+              break;
     }
   } else {
     var newStudent = {
