@@ -33,7 +33,7 @@ The goal was to create a beginner-friendly CRUD application as part of our cours
 
 ## 🚀 How to Run
 1. Clone or download this repository  
-2. Open the `index.html` file in any modern browser  
+2. Open the `Student.html` file in any modern browser  
 3. Start adding, viewing, updating, or deleting student records  
 
 ---
