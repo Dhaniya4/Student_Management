@@ -1,7 +1,7 @@
 # Student Management System (Local Storage)
 
 ## 📌 Overview
-This project is a **simple Student Management System** developed as a **mini project assignment** by our team of four members.  
+This project is a **simple Student Management System** developed as a part of **mini project assignment** by our team of four members during 1st semester.  
 It uses **browser local storage** to manage student records, making it lightweight and easy to run without any external database.  
 The goal was to create a beginner-friendly CRUD application as part of our coursework.
 
